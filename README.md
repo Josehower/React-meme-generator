@@ -10,19 +10,19 @@ this application allow you to download a custom meme from memegen.link/ API, you
 
 - Apply the text you want
 
-![custom text](input_text.jpg)
+![custom text](input_text.JPG)
 
 - If needed, use the check box to apply more lines, just separate the text on boxes whit a /.
 
-![more lines](4_lines.jpg)
+![more lines](4_lines.JPG)
 
 - The app remembers your creations, you still can reset it if needed.
 
-![history](History_feature.jpg)
+![history](History_feature.JPG)
 
 - Download the image of your preference and enjoy.
 
-![download](Download.jpg)
+![download](Download.JPG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
