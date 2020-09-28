@@ -1,6 +1,6 @@
 # Meme Generator
 
-[Web version](https://react-meme-scraper.netlify.app/).
+[Web version](https://react-meme-scraper.netlify.app/). <br /> 
 [Code sandbox version](https://codesandbox.io/s/github/Josehower/React-meme-generator).
 
 this application allow you to download a custom meme from memegen.link/ API, you can get this image on different versions.
