@@ -20,7 +20,7 @@ const MemeForm = ({
   useEffect(() => {
     fetch('https://api.memegen.link/templates')
       .then((res) => res.json())
-      .then((res) => setMemeDropDownOptions(res.map((img) => img.key)));
+      .then((res) => setMemeDropDownOptions(res.map((img) => img.id)));
   }, []);
   return (
     <form onSubmit={(e) => e.preventDefault()} action="submit">
